@@ -383,7 +383,7 @@ a:focus {
     Utility classes to put specific widths onto elements
     Will be mostly used on o-layout__item
 */
-
+/*
 .u-width-auto {
   width: auto;
 }
@@ -431,7 +431,7 @@ a:focus {
 .u-5-of-6 {
   width: 83.333333333%;
 }
-
+*/
 @media (min-width: 576px) {
 
   .u-1-of-2-bp1 {
